@@ -8,4 +8,6 @@
 
 WPFでの画面遷移の練習（FrameとPage）  
 
-参考　📖　[WPFとVisual Studioで画面遷移を実装する方法](https://www.fenet.jp/dotnet/column/tool/4951/)  
+# Documents
+
+📖　[WPFとVisual Studioで画面遷移を実装する方法](https://www.fenet.jp/dotnet/column/tool/4951/)  
