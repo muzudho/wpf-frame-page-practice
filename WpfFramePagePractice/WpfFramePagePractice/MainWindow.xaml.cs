@@ -1,8 +1,8 @@
-﻿using System;
-using System.Windows;
-
-namespace WpfFramePagePractice
+﻿namespace WpfFramePagePractice
 {
+    using System;
+    using System.Windows;
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -12,6 +12,7 @@ namespace WpfFramePagePractice
         {
             InitializeComponent();
 
+            // フレームに Page1 を表示します
             Uri uri = new Uri("/Page1.xaml", UriKind.Relative);
             frame.Source = uri;
         }

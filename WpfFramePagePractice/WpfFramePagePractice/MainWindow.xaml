@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:WpfFramePagePractice"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    
     <Grid>
+        
+        <!-- これがフレーム。ページの置き場所を決めてる感じ -->
         <Frame Name="frame" NavigationUIVisibility="Hidden"/>
+        
     </Grid>
 </Window>
